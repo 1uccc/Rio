@@ -1,21 +1,26 @@
+import riodo from '../../pic/riodo.webp'
+import rioxanhla from '../../pic/rioxanhla.webp'
+import rio4 from '../../pic/rio4.webp'
+import rio5 from '../../pic/rio5.webp'
+
 export const HERO_IMAGES = [
   {
-    src: '/pic/riodo.webp',
+    src: riodo,
     bg: '#f57575',
     panel: '#f38d8d',
   },
   {
-    src: '/pic/rioxanhla.webp',
+    src: rioxanhla,
     bg: '#6BBF7A',
     panel: '#85CC92',
   },
   {
-    src: '/pic/rio4.webp',
+    src: rio4,
     bg: '#E882B4',
     panel: '#ED9DC4',
   },
   {
-    src: '/pic/rio5.webp',
+    src: rio5,
     bg: '#6EB5FF',
     panel: '#8DC4FF',
   },
